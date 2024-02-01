@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Get at it",
+  "description": "Bypass obnoxious managed-browser homepage and instead load the first bookmarked page.",
+  "version": "1.0",
+  "background": {
+    "service_worker": "main.js"
+  },
+  "permissions": ["scripting", "activeTab", "tabs", "bookmarks"]
+}
