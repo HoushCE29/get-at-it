@@ -7,7 +7,7 @@ Then this extension is for you. You got things to do, so get at it.
 This simple worker extension listens for the `onStartup` event and then updates the current active tab to open up the URL of the first bookmark found.
 
 ## Set Up
-  1. In Chrome, go to `Extensions` -> `Managed extensions`.
+  1. In Chrome, go to `Extensions` -> `Manage extensions`.
   2. In the top right, turn on `Developer mode`.
   3. In the top left, select `Load unpacked`.
   4. Select the `chrome` directory in this project.
